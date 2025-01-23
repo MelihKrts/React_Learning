@@ -7,7 +7,9 @@
 - [Referans](#referans)
 
 # React Learning Hakkında
-<p align="justify">Bu repoda React tekrar ederken not aldığım bilgiler ve çalışmalar paylaşılacaktır. Ayrı olarak React + TypeScript çalışmaları olacağından TypeScript reposundan da faydanalanabilirsiniz.</p>
+<p style="text-align: justify">Bu repoda React bilgilerimi tekrar ederken  aldığım notlar ve çalışmalar paylaşılacaktır. Bu repoda React bilgilerimi pekiştirirken TypeScript bilgilerimi de React çalışmalarından kullanacağımdan TypeScript ile alakalı takıldığınız alanda Learn TypeScript  reposundan da faydanalanabilirsiniz.</p>
+
+<p style="text-align: justify">İlgili konuyla yazılmış kodlara Egzersizler adlı klasörden ulaşabilirsiniz.</p>
 
 # Referans
 - [Learn TypeScript Repo](https://github.com/MelihKrts/Learn-TypeScript)
