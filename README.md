@@ -1,5 +1,6 @@
 # React Learning 
 ![React Learning Social Media Preview](image/react-learning.png)
+
 # İçindekiler
 - [React Learning](#react-learning)
 - [İçindekiler](#içindekiler)
