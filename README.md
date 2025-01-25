@@ -2,7 +2,7 @@
 ![React Learning Social Media Preview](image/react-learning.png)
 
 # İçindekiler
-- [React Learning](#react-learning)
+- [React Learning](#react-learning-)
 - [İçindekiler](#içindekiler)
 - [React Learning Hakkında](#react-learning-hakkında)
 - [Referans](#referans)
