@@ -1,4 +1,6 @@
-# React Başlarken
+<h1 align="center">React Learning -  React Başlarken</h1>
+
+![React Başlarken Social Media Image](../image/react-baslarken.png)
 
 # İçindekiler
 - [React](#react)
