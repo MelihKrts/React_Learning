@@ -1,3 +1,7 @@
+<h1 align="center">React Learning - Props</h1>
+
+![Props Social Media Image](../image/props.png)
+
 # İçindekiler
 - [Props](#props)
 - [Bileşen](#bileşen)
@@ -23,14 +27,14 @@ Props, React bileşenlerine geçirilen argümandır.</p>
 <p style="text-align: justify">JavaScript fonksiyonu yazarak bileşen oluşturulabilir.</p>
 
 ````js
-function Welcome (props){
-    return(
+function Welcome(props) {
+    return (
         <h1>Hello, {props.name}</h1>
     )
 }
 ````
 
-<p style="text-align: justify">Yukarıdaki kodda bir adet props(properties) almış olup geriye React bileşeni döndürecektir. JavaScript fonksiyonu olduğundan fonksiyonel bileşen olarak adlandırılır.</p>
+<p style="text-align: justify">Yukarıdaki kodda bir adet props (properties) almış olup geriye React bileşeni döndürecektir. JavaScript fonksiyonu olduğundan fonksiyonel bileşen olarak adlandırılır.</p>
 
 ## Class Component
 
@@ -48,5 +52,4 @@ class Welcome extends React.Component {
 
 # Kaynakça
 - [W3Schools](https://www.w3schools.com/react/react_props.asp)
-
 - [Legacy React Docs](https://legacy.reactjs.org/docs/components-and-props.html)
