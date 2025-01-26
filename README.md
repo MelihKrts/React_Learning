@@ -1,4 +1,4 @@
-<h1 style="text-align: center">React Learning</h1>
+<h1 align="center">React Learning</h1>
 
 ![React Learning Social Media Preview](image/react-learning.png)
 
