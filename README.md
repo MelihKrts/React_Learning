@@ -4,6 +4,7 @@
 
 # İçindekiler
 - [React Learning Hakkında](#react-learning-hakkında)
+- [Bilgi](#information_source-bilgi)
 - [Konular](#konular)
 - [Kaynakça](#kaynakça)
 
@@ -11,6 +12,14 @@
 <p style="text-align: justify">Bu repoda React bilgilerimi tekrar ederken  aldığım notlar ve çalışmalar paylaşılacaktır. Bu repoda React bilgilerimi pekiştirirken TypeScript bilgilerimi de React çalışmalarından kullanacağımdan TypeScript ile alakalı takıldığınız alanda Learn TypeScript  reposundan da faydanalanabilirsiniz.</p>
 
 <p style="text-align: justify">İlgili konuyla yazılmış kodlara <a href="Egzersizler">Egzersizler</a> adlı klasörden ulaşabilirsiniz.</p>
+
+# :information_source: Bilgi
+<p align="justify">Egzersiz kodlarını çalıştırmak için şu komutu yazmanız gereklidir.</p>
+
+```bash
+npm install
+```
+
 
 # Konular
 
